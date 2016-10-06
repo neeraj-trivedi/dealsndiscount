@@ -1,0 +1,6 @@
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\bin\Debug\Batch.exe.config
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\bin\Debug\Batch.exe
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\bin\Debug\Batch.pdb
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\obj\Debug\Batch.csprojResolveAssemblyReference.cache
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\obj\Debug\Batch.exe
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Batch\obj\Debug\Batch.pdb

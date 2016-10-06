@@ -1,0 +1,6 @@
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\bin\Debug\Simple.exe.config
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\bin\Debug\Simple.exe
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\bin\Debug\Simple.pdb
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\obj\Debug\Simple.csprojResolveAssemblyReference.cache
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\obj\Debug\Simple.exe
+C:\Users\neeraj\Downloads\AmazonProductAdvtApiWcfSample\Simple\obj\Debug\Simple.pdb
